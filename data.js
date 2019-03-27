@@ -2,251 +2,251 @@ const data = [
     {
         letter: 'Aa',
         position: 1,
-        words: [
+        lyrics: [
             "Artificial amateurs aren't at all amazing",
-            'Analytically, I assault', 
-            'animate things'
+            ' analytically, I assault', 
+            ' animate things'
         ]
     },
     {
         letter: 'Bb',
         position: 2,
-        words: [
+        lyrics: [
             'Broken barriers bounded by the bomb beat',
-            'Buildings are broken', 
-            "basically I'm bombarding"
+            ' buildings are broken', 
+            " basically I'm bombarding"
         ]
     },
     {
         letter: 'Cc',
         position: 3,
-        words: [
+        lyrics: [
             'Casually create catastrophes',
-            'casualties',
-            'Canceling cats', 
-            'got they canopies collapsing'
+            ' casualties',
+            ' canceling cats', 
+            ' got they canopies collapsing'
         ]
     },
     {
         letter: 'Dd',
         position: 4,
-        words: [
+        lyrics: [
             "Detonate a dime of dank daily doin' dough",
-            'Demonstrations', 
-            'Don Dada on the down low'
+            ' demonstrations', 
+            ' Don Dada on the down low'
         ]
     },
     {
         letter: 'Ee',
         position: 5,
-        words: [
+        lyrics: [
             'Eating other editors with each and every energetic Epileptic episode',
-            'elevated etiquette'
+            ' elevated etiquette'
         ]
     },
     {
         letter: 'Ff',
         position: 6,
-        words: [
+        lyrics: [
             'Furious', 
-            'fat', 
-            'fabulous', 
-            'fantastic',
-            'Flurries of funk felt', 
-            'feeding the fanatics'
+            ' fat', 
+            ' fabulous', 
+            ' fantastic',
+            ' flurries of funk felt', 
+            ' feeding the fanatics'
         ]
     },
     {
         letter: 'Gg',
         position: 7,
-        words: [
+        lyrics: [
             'Gift got great', 
-            'global goods gone glorious',
-            "Gettin' godly in this game with the goriest"
+            ' global goods gone glorious',
+            " gettin' godly in this game with the goriest"
         ]
     },
     {
         letter: 'Hh',
         position: 8,
-        words: [
+        lyrics: [
             "Hit 'em high", 
-            "hella hype", 
-            'historical',
-            'hey holocaust hymns', 
-            "hear 'em holler at your homeboy"
+            " hella hype", 
+            ' historical',
+            ' hey holocaust hymns', 
+            " hear 'em holler at your homeboy"
         ]
     },
     {
         letter: 'Ii',
         position: 9,
-        words: [
+        lyrics: [
             'Imitators idolize', 
-            'I intimidate',
-            'In an instant', 
-            "I'll rise in an irate state"
+            ' I intimidate',
+            ' in an instant', 
+            " I'll rise in an irate state"
         ]
     },
     {
         letter: 'Jj',
         position: 10,
-        words: [
+        lyrics: [
             'Juiced on my jams like Jheri curls jocking joints',
-            'Justly', 
-            "it's just me", 
-            'writing my journals'
+            ' justly', 
+            " it's just me", 
+            ' writing my journals'
         ]
     },
     {
         letter: 'Kk',
         position: 11,
-        words: [
-           " Kindly I'm kindling all kinds of ink on",
-            'Karate kick type Brits in my kingdom'
+        lyrics: [
+            "Kindly I'm kindling all kinds of ink on",
+            ' karate kick type Brits in my kingdom'
         ]
     },
     {
         letter: 'Ll',
         position: 12,
-        words: [
+        lyrics: [
             'Let me live a long life', 
-            'lyrically lessons is learned',
-            'lame louses just lose to my livery'
+            ' lyrically lessons is learned',
+            ' lame louses just lose to my livery'
         ]
     },
     {
         letter: 'Mm',
         position: 13,
-        words: [
+        lyrics: [
             'My mind makes marvelous moves masses marvel and move', 
-            "many mock what I've mastered"
+            " many mock what I've mastered"
         ]
     },
     {
         letter: 'Nn',
         position: 14,
-        words: [
+        lyrics: [
             "Niggas nap knowing I'm nice naturally",
-            'knack never lack', 
-            'make noise nationally'
+            ' knack never lack', 
+            ' make noise nationally'
         ]
     },
     {
         letter: 'Oo',
         position: 15,
-        words: [
+        lyrics: [
             'Operation', 
-            'opposition', 
-            'off', 
-            'not optional',
-            'Out of sight', 
-            'out of mind', 
-            'wide beaming opticals'
+            ' opposition', 
+            ' off', 
+            ' not optional',
+            ' Out of sight', 
+            ' out of mind', 
+            ' wide beaming opticals'
         ]
     },
     {
         letter: 'Pp',
         position: 16,
-        words: [
+        lyrics: [
             'Perfected poem', 
-            'powerful punchlines',
-            'Pummeling petty powder puffs in my prime'
+            ' powerful punchlines',
+            ' pummeling petty powder puffs in my prime'
         ]
     },
     {
         letter: 'Qq',
         position: 17,
-        words: [
+        lyrics: [
             "Quite quaint quotes keep quiet it's Quannnum",
-            "Quarrelers ain't got a quarter of what we got, uh"
+            " quarrelers ain't got a quarter of what we got, uh"
         ]
     },
     {
         letter: 'Rr',
         position: 18,
-        words: [
+        lyrics: [
             'Really raw raps', 
-            "risin' up rapidly",
-            'Riding the rushing radioactivity'
+            " risin' up rapidly",
+            ' riding the rushing radioactivity'
         ]
     },
     {
         letter: 'Ss',
         position: 19,
-        words: [
+        lyrics: [
             'Super scientifical',
-            'sound',
-            'search',
-            'sought',
-            'Silencing super fire saps that are soft'
+            ' sound',
+            ' search',
+            ' sought',
+            ' silencing super fire saps that are soft'
         ]
     },
     {
         letter: 'Tt',
         position: 20,
-        words: [
+        lyrics: [
             'Tales ten times talented', 
-            'too tough',
-            'take that challengers, get a tune up'
+            ' too tough',
+            ' take that challengers, get a tune up'
         ]
     },
     {
         letter: 'Uu',
         position: 21,
-        words: [
+        lyrics: [
             'Universal', 
-            'unique', 
-            'untouched',
-            'Unadulterated, the raw uncut'
+            ' unique', 
+            ' untouched',
+            ' Unadulterated, the raw uncut'
         ]
     },
     {
         letter: 'Vv',
         position: 22,
-        words: [
+        lyrics: [
             'Verb', 
-            'vice lord', 
-            'victorious',
-            'valid',
-            "Violate vibes that are vain make 'em vanish"
+            ' vice lord', 
+            ' victorious',
+            ' valid',
+            " violate vibes that are vain make 'em vanish"
         ]
     },
     {
         letter: 'Ww',
         position: 23,
-        words: [
-            "While I'm all well would a wise wordsmith just weaving up words", 
-            'weeded up on my workshift'
+        lyrics: [
+            "While I'm all well would a wise lyricsmith just weaving up lyrics", 
+            ' weeded up on my workshift'
         ]
     },
     {
         letter: 'Xx',
         position: 24,
-        words: [
+        lyrics: [
             "Xerox my X-radiation holes",
-            'extra large',
-            'X-height letters and xylophone tones'
+            ' extra large',
+            ' X-height letters and xylophone tones'
         ]
     },
     {
         letter: 'Yy',
         position: 25,
-        words: [
+        lyrics: [
             'Yellow-back', 
-            'yak mouth', 
-            "young ones' yaws",
-            "Yesterday's lawn yardsale, I yawn"
+            ' yak mouth', 
+            " young ones' yaws",
+            " yesterday's lawn yardsale, I yawn"
         ]
     },
     {
         letter: 'Zz',
         position: 26,
-        words: [
+        lyrics: [
             'Zig-Zag zombies', 
-            'zooming to the zenith',
-            'Zero in', 
-            'Zen thoughts', 
-            'overzealous rhyme',
-            'ZEA-LOTS!'
+            ' zooming to the zenith',
+            ' zero in', 
+            ' zen thoughts', 
+            ' overzealous rhyme',
+            ' ZEA-LOTS!'
         ]
     }
 ]
