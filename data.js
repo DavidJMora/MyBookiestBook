@@ -161,7 +161,7 @@ const data = [
         ]
     },
     {
-        lette: 'Rr',
+        letter: 'Rr',
         position: 18,
         words: [
             'Really raw raps', 
