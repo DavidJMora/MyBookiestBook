@@ -1,4 +1,4 @@
-const data = [
+const alphabetAerobic = [
     {
         letter: 'Aa',
         position: 1,

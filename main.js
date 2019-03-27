@@ -10,38 +10,48 @@ function init () {
 
 function search(event) {
     event.preventDefault();
+    userInput = document.querySelector('#search-input').value; 
+    for(let i = 0; i < alphabetAerobic.length; i++) {
+
+        if(alphabetAerobic[i].letter.includes(userInput)) {
+            createHTML(alphabetAerobic[i]);
+        }
+
+    }
 
 }
 
 function displayAll(event) {
     event.preventDefault();
 
-    createFullList();
+    for(let i = 0; i < alphabetAerobic.length; i++) {
+        const data = alphabetAerobic[i]
+        createHTML(data);
+    }
 }
 
 function clearHTML() {
-
+    
 }
 
-function createFullList(showData) {
-    for(let i = 0; i < data.length; i++) {
-        const objectLi = document.createElement('li');
-        appendElement = document.querySelector('#list');
-        appendElement.appendChild(objectLi);
+function createHTML(data) {
+    const objectLi = document.createElement('li');
+    appendElement = document.querySelector('#list');
+    appendElement.appendChild(objectLi);
 
-        const createObjectUl = document.createElement('ul');
-        objectLi.appendChild(createObjectUl);
+    const createObjectUl = document.createElement('ul');
+    objectLi.appendChild(createObjectUl);
 
-        const letter = document.createElement('p');
-        letter.innerText = data[i].letter;
-        createObjectUl.appendChild(letter);
+    const letter = document.createElement('p');
+    letter.innerText = data.letter;
+    createObjectUl.appendChild(letter);
 
-        const position = document.createElement('p');
-        position.innerText = data[i].position;
-        createObjectUl.appendChild(position);
+    const position = document.createElement('p');
+    position.innerText = data.position;
+    createObjectUl.appendChild(position);
 
-        const lyrics = document.createElement('p');
-        lyrics.innerText = data[i].lyrics;
-        createObjectUl.appendChild(lyrics);
-    }
+    const lyrics = document.createElement('p');
+    lyrics.innerText = data.lyrics;
+    createObjectUl.appendChild(lyrics);
+    
 }
