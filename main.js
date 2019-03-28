@@ -16,8 +16,9 @@ function search(event) {
 
         if(alphabetAerobic[i].letter.includes(userInput)) {
             createHTML(alphabetAerobic[i]);
+        } else if(alphabetAerobic[i].lyrics.includes(userInput)) {
+            createHTML(alphabetAerobic[i])
         }
-
     }
 }
 

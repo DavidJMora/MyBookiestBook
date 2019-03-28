@@ -4,8 +4,8 @@ const alphabetAerobic = [
         position: 1,
         lyrics: [
             "Artificial amateurs aren't at all amazing",
-            ' analytically, I assault', 
-            ' animate things'
+            'analytically, I assault', 
+            'animate things'
         ]
     },
     {
@@ -13,8 +13,8 @@ const alphabetAerobic = [
         position: 2,
         lyrics: [
             'Broken barriers bounded by the bomb beat',
-            ' buildings are broken', 
-            " basically I'm bombarding"
+            'buildings are broken', 
+            "basically I'm bombarding"
         ]
     },
     {
@@ -22,9 +22,9 @@ const alphabetAerobic = [
         position: 3,
         lyrics: [
             'Casually create catastrophes',
-            ' casualties',
-            ' canceling cats', 
-            ' got they canopies collapsing'
+            'casualties',
+            'canceling cats', 
+            'got they canopies collapsing'
         ]
     },
     {
@@ -32,8 +32,8 @@ const alphabetAerobic = [
         position: 4,
         lyrics: [
             "Detonate a dime of dank daily doin' dough",
-            ' demonstrations', 
-            ' Don Dada on the down low'
+            'demonstrations', 
+            'Don Dada on the down low'
         ]
     },
     {
@@ -41,7 +41,7 @@ const alphabetAerobic = [
         position: 5,
         lyrics: [
             'Eating other editors with each and every energetic Epileptic episode',
-            ' elevated etiquette'
+            'elevated etiquette'
         ]
     },
     {
@@ -49,11 +49,11 @@ const alphabetAerobic = [
         position: 6,
         lyrics: [
             'Furious', 
-            ' fat', 
-            ' fabulous', 
-            ' fantastic',
-            ' flurries of funk felt', 
-            ' feeding the fanatics'
+            'fat', 
+            'fabulous', 
+            'fantastic',
+            'flurries of funk felt', 
+            'feeding the fanatics'
         ]
     },
     {
@@ -61,8 +61,8 @@ const alphabetAerobic = [
         position: 7,
         lyrics: [
             'Gift got great', 
-            ' global goods gone glorious',
-            " gettin' godly in this game with the goriest"
+            'global goods gone glorious',
+            "gettin' godly in this game with the goriest"
         ]
     },
     {
@@ -70,10 +70,10 @@ const alphabetAerobic = [
         position: 8,
         lyrics: [
             "Hit 'em high", 
-            " hella hype", 
-            ' historical',
-            ' hey holocaust hymns', 
-            " hear 'em holler at your homeboy"
+            "hella hype", 
+            'historical',
+            'hey holocaust hymns', 
+            "hear 'em holler at your homeboy"
         ]
     },
     {
@@ -81,9 +81,9 @@ const alphabetAerobic = [
         position: 9,
         lyrics: [
             'Imitators idolize', 
-            ' I intimidate',
-            ' in an instant', 
-            " I'll rise in an irate state"
+            'I intimidate',
+            'in an instant', 
+            "I'll rise in an irate state"
         ]
     },
     {
@@ -91,9 +91,9 @@ const alphabetAerobic = [
         position: 10,
         lyrics: [
             'Juiced on my jams like Jheri curls jocking joints',
-            ' justly', 
-            " it's just me", 
-            ' writing my journals'
+            'justly', 
+            "it's just me", 
+            'writing my journals'
         ]
     },
     {
@@ -101,7 +101,7 @@ const alphabetAerobic = [
         position: 11,
         lyrics: [
             "Kindly I'm kindling all kinds of ink on",
-            ' karate kick type Brits in my kingdom'
+            'karate kick type Brits in my kingdom'
         ]
     },
     {
@@ -109,8 +109,8 @@ const alphabetAerobic = [
         position: 12,
         lyrics: [
             'Let me live a long life', 
-            ' lyrically lessons is learned',
-            ' lame louses just lose to my livery'
+            'lyrically lessons is learned',
+            'lame louses just lose to my livery'
         ]
     },
     {
@@ -118,7 +118,7 @@ const alphabetAerobic = [
         position: 13,
         lyrics: [
             'My mind makes marvelous moves masses marvel and move', 
-            " many mock what I've mastered"
+            "many mock what I've mastered"
         ]
     },
     {
@@ -126,7 +126,7 @@ const alphabetAerobic = [
         position: 14,
         lyrics: [
             "Niggas nap knowing I'm nice naturally",
-            ' knack never lack', 
+            'knack never lack', 
             ' make noise nationally'
         ]
     },
@@ -135,12 +135,12 @@ const alphabetAerobic = [
         position: 15,
         lyrics: [
             'Operation', 
-            ' opposition', 
-            ' off', 
-            ' not optional',
-            ' Out of sight', 
-            ' out of mind', 
-            ' wide beaming opticals'
+            'opposition', 
+            'off', 
+            'not optional',
+            'Out of sight', 
+            'out of mind', 
+            'wide beaming opticals'
         ]
     },
     {
@@ -148,8 +148,8 @@ const alphabetAerobic = [
         position: 16,
         lyrics: [
             'Perfected poem', 
-            ' powerful punchlines',
-            ' pummeling petty powder puffs in my prime'
+            'powerful punchlines',
+            'pummeling petty powder puffs in my prime'
         ]
     },
     {
@@ -157,7 +157,7 @@ const alphabetAerobic = [
         position: 17,
         lyrics: [
             "Quite quaint quotes keep quiet it's Quannnum",
-            " quarrelers ain't got a quarter of what we got, uh"
+            "quarrelers ain't got a quarter of what we got, uh"
         ]
     },
     {
@@ -165,8 +165,8 @@ const alphabetAerobic = [
         position: 18,
         lyrics: [
             'Really raw raps', 
-            " risin' up rapidly",
-            ' riding the rushing radioactivity'
+            "risin' up rapidly",
+            'riding the rushing radioactivity'
         ]
     },
     {
@@ -174,10 +174,10 @@ const alphabetAerobic = [
         position: 19,
         lyrics: [
             'Super scientifical',
-            ' sound',
-            ' search',
-            ' sought',
-            ' silencing super fire saps that are soft'
+            'sound',
+            'search',
+            'sought',
+            'silencing super fire saps that are soft'
         ]
     },
     {
@@ -185,8 +185,8 @@ const alphabetAerobic = [
         position: 20,
         lyrics: [
             'Tales ten times talented', 
-            ' too tough',
-            ' take that challengers, get a tune up'
+            'too tough',
+            'take that challengers, get a tune up'
         ]
     },
     {
@@ -194,9 +194,9 @@ const alphabetAerobic = [
         position: 21,
         lyrics: [
             'Universal', 
-            ' unique', 
-            ' untouched',
-            ' Unadulterated, the raw uncut'
+            'unique', 
+            'untouched',
+            'Unadulterated, the raw uncut'
         ]
     },
     {
@@ -204,10 +204,10 @@ const alphabetAerobic = [
         position: 22,
         lyrics: [
             'Verb', 
-            ' vice lord', 
-            ' victorious',
-            ' valid',
-            " violate vibes that are vain make 'em vanish"
+            'vice lord', 
+            'victorious',
+            'valid',
+            "violate vibes that are vain make 'em vanish"
         ]
     },
     {
@@ -215,7 +215,7 @@ const alphabetAerobic = [
         position: 23,
         lyrics: [
             "While I'm all well would a wise lyricsmith just weaving up lyrics", 
-            ' weeded up on my workshift'
+            'weeded up on my workshift'
         ]
     },
     {
@@ -223,8 +223,8 @@ const alphabetAerobic = [
         position: 24,
         lyrics: [
             "Xerox my X-radiation holes",
-            ' extra large',
-            ' X-height letters and xylophone tones'
+            'extra large',
+            'X-height letters and xylophone tones'
         ]
     },
     {
@@ -232,9 +232,9 @@ const alphabetAerobic = [
         position: 25,
         lyrics: [
             'Yellow-back', 
-            ' yak mouth', 
-            " young ones' yaws",
-            " yesterday's lawn yardsale, I yawn"
+            'yak mouth', 
+            "young ones' yaws",
+            "yesterday's lawn yardsale, I yawn"
         ]
     },
     {
@@ -242,11 +242,11 @@ const alphabetAerobic = [
         position: 26,
         lyrics: [
             'Zig-Zag zombies', 
-            ' zooming to the zenith',
-            ' zero in', 
-            ' zen thoughts', 
-            ' overzealous rhyme',
-            ' ZEA-LOTS!'
+            'zooming to the zenith',
+            'zero in', 
+            'zen thoughts', 
+            'overzealous rhyme',
+            'ZEA-LOTS!'
         ]
     }
 ]
